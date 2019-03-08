@@ -1,0 +1,13 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "electron": "^4.0.7"
+  }
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Scraping with Electron</title>
+</head>
+<body>
+
+  <!-- Electron webview -->
+  <webview
+    style="min-height: 85vh;"
+    src="https://www.whatismybrowser.com/detect/what-is-my-user-agent"
+    useragent="My Super Browser v1.0 Youpi Tralala !">
+  </webview>
+
+  <a href="#" onclick="childLoadURL('https://www.whatismybrowser.com/detect/what-is-my-user-agent')">Load url in child window</a>
+
+<script src="js/index.js"></script>
+
+</body>
+</html>
