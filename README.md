@@ -5,7 +5,7 @@ This is a simple project to show tips for scraping web pages with an Electron ap
 Please read : 
 
 - https://en.jeffprod.com/blog/2019/web-scraping-with-electron/ (EN)
-- https://fr.jeffprod.com/blog/2019/web-scraping-with-electron/ (FR)
+- https://fr.jeffprod.com/blog/2019/web-scraping-avec-electron/ (FR)
 
 ![scraping](scraping.png)
 
