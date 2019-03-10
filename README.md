@@ -1,6 +1,7 @@
 ### Sample Web Scraping With Electron
 
-This is a simple project to show tips for scraping web pages with an Electron app.
+This is a simple project to show tips for scraping web pages with an Electron app. 
+It can help you to build a user friendly, portable application with a GUI, to scrape a specific web site.
 
 Please read : 
 
